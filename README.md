@@ -10,3 +10,5 @@
 - Development: [architecture](docs/dev/architecture.md), [setup](docs/dev/setup.md), [testing](docs/dev/testing.md), [decisions](docs/adr/0001-record-architecture-decisions.md).
 - Instructions for agents: [`CLAUDE.md`](CLAUDE.md).
 - Changes: [`CHANGELOG.md`](CHANGELOG.md).
+
+See the [FAQ](docs/user/faq.md).

@@ -18,3 +18,5 @@ Reviewed by the Orchestrator.
 Changed on request.
 
 Built while you sleep.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
